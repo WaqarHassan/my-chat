@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Chat 1",
+    "messages": [
+      "Hello!",
+      "How are you?"
+    ]
+  },
+  {
+    "title": "Chat 2",
+    "messages": [
+      "Hey!",
+      "What's up?"
+    ]
+  }
+]
